@@ -17,8 +17,8 @@ This game is well-structured and efficiently developed using OOP concepts and so
 
 <div align="center">
 <table><tr><td>
-    <img src="assets/raiinet-textdisplay-light.png#gh-light-mode-only" />
-    <img src="assets/raiinet-textdisplay-dark.png#gh-dark-mode-only" />
+    <img src="assets/raiinet-textdisplay-light.png#gh-dark-mode-only" />
+    <img src="assets/raiinet-textdisplay-dark.png#gh-light-mode-only" />
 </td></tr></table>
 </div>
 
